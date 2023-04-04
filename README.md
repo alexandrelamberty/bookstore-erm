@@ -1,4 +1,4 @@
-# Epidemic Escapes - Online Bookstore Entity-Relationship Model
+# Online Bookstore Entity-Relationship Model
 
 Entity relationship model (ERM) diagram for a library website.
 
